@@ -1,4 +1,4 @@
-<!-- ndex.html -->
+<!-- index.html -->
 <!DOCTYPE html>
 <html lang="fa">
 <head>
